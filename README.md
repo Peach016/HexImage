@@ -42,6 +42,8 @@ In start every HI-file will 8 bytes of size:
 
 For work HexImage 3.0, need a [Separation](https://github.com/Peach016/Separation).
 
+HexImage 3.0 and Separation must be a one folder.
+
 
 For easy create picture for HI 3.0, can be used [HexEditor](https://github.com/Peach016/HexEditor)
 
