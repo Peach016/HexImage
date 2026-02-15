@@ -3,10 +3,10 @@ HexImage - new innovation image format.
 
 No signature. No blocks. Only pixels.
 
-## HexImage 1.0
+### HexImage 1.0
 Only print pixels. In file ordinary text separated of spaces.
 
-## HexImage 2.0
+### HexImage 2.0
 Only print pixels too. In file text with length and color. For example:
 
 Two red pixels in a row:
@@ -15,12 +15,12 @@ Two red pixels in a row:
 
 Pixels also separated of spaces.
 
-## HexImage 2.1 (In developing)
+### HexImage 2.1 (In developing)
 New ability: add to file transparent pixels.
 
 They have a special code, which not hexadecimal color.
 
-## HexImage 3.0
+### HexImage 3.0
 File will not ordinary text, file will colors from bytes.
 
 Every color - 3 bytes:
@@ -38,6 +38,12 @@ In start every HI-file will 8 bytes of size:
 4 bytes - height
 
 
+### Information
+
+For work HexImage 3.0, need a [Separation](https://github.com/Peach016/Separation).
+
+
+For easy create picture for HI 3.0, can be used [HexEditor](https://github.com/Peach016/HexEditor)
 
 
 Created with [Rich](https://github.com/Textualize/rich?tab=readme-ov-file)
