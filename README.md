@@ -20,7 +20,7 @@ New ability: add to file transparent pixels.
 
 They have a special code, which not hexadecimal color.
 
-## HexImage 3.0 (In mega-long-developing)
+## HexImage 3.0
 File will not ordinary text, file will colors from bytes.
 
 Every color - 3 bytes:
